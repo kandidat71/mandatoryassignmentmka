@@ -1,0 +1,26 @@
+table, th, td {
+    border: 1px solid lightgray;
+    padding: 15px;
+    border-spacing: 5px;
+    text-align: center;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+div.card-body {
+    text-align: center;
+}
+
+form {
+   margin: 15px;
+}
+
+footer {
+  text-align: center;
+  background-color: lightgray;
+} 
+
+button {
+    background-color: darkgray
+}    
